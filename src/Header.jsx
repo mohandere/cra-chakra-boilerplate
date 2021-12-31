@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <>
       <Heading as="h1" size="xl" isTruncated mb="8">
-        <Link to="/">MyFDM(My Family Details Manager)</Link>
+        <Link to="/">myApp</Link>
       </Heading>
     </>
   )
